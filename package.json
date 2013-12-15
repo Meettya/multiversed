@@ -1,0 +1,19 @@
+{
+  "name": "multiverse",
+  "version": "0.0.1",
+  "description": "Multi-versioning API builder",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:Meettya/multiverse.git"
+  },
+  "keywords": [
+    "api"
+  ],
+  "author": "Karpich Dmitrii",
+  "license": "MIT",
+  "readmeFilename": "README.md"
+}
