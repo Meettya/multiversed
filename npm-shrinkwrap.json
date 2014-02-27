@@ -1,0 +1,19 @@
+{
+  "name": "multiversed",
+  "version": "0.1.1",
+  "dependencies": {
+    "lodash": {
+      "version": "2.4.1",
+      "from": "lodash@*"
+    },
+    "async": {
+      "version": "0.2.10",
+      "from": "async@*",
+      "resolved": "https://registry.npmjs.org/async/-/async-0.2.10.tgz"
+    },
+    "semver": {
+      "version": "2.2.1",
+      "from": "semver@*"
+    }
+  }
+}
