@@ -1,19 +1,41 @@
 {
-  "name": "multiverse",
-  "version": "0.0.1",
+  "name": "multiversed",
+  "version": "0.1.1",
   "description": "Multi-versioning API builder",
-  "main": "index.js",
+  "main": "./lib/component_factory",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "mocha"
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:Meettya/multiverse.git"
+    "url": "git@github.com:Meettya/multiversed.git"
   },
   "keywords": [
-    "api"
+    "api",
+    "mvc"
   ],
-  "author": "Karpich Dmitrii",
-  "license": "MIT",
-  "readmeFilename": "README.md"
+  "author": "Dmitrii Karpich <meettya@gmail.com>",
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://raw.github.com/Meettya/multiversed/master/LICENSE"
+    }
+  ],
+  "readmeFilename": "README.md",
+  "dependencies": {
+    "lodash": "*",
+    "async": "*",
+    "semver": "*"
+  },
+  "devDependencies": {
+    "coffee-script": "*",
+    "chai": "*",
+    "mocha": "*",
+    "colors": "*",
+    "walkdir": "*",
+    "fs-extra": "*"
+  },
+  "engines": {
+    "node": ">=0.8.0"
+  }
 }
