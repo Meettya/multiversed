@@ -383,4 +383,4 @@ module.exports =
 
 ## Лицензия 
 
-Модуль предоставляется под лицензией MIT (Expat).
+Модуль предоставляется под лицензией [MIT (Expat)](https://raw.github.com/Meettya/multiversed/master/LICENSE).

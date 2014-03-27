@@ -11,7 +11,7 @@ _ = require 'lodash'
 module.exports = class BaseExecutor
 
   ###
-  @param {Object} {logger} - logger-объект winston
+  @param {Object} {logger} - logger-объект
   ###
   constructor: (in_command_object, options={}) ->
     @_logger_ = options.logger ? console
