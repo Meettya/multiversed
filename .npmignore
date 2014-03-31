@@ -1,1 +1,4 @@
 plato_report
+examples
+*.sock
+.DS_Store

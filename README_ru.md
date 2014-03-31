@@ -1,3 +1,5 @@
+[![Build Status](https://secure.travis-ci.org/Meettya/multiversed.png)](http://travis-ci.org/Meettya/multiversed)  [![Dependency Status](https://gemnasium.com/Meettya/multiversed.png)](https://gemnasium.com/Meettya/multiversed)
+
 # Multiversed
 
 **Multiversed** - инструмент для создания версионного API в пределах одной кодовой базы.
