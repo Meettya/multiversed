@@ -1,4 +1,4 @@
-[![Build Status](https://secure.travis-ci.org/Meettya/multiversed.png)](http://travis-ci.org/Meettya/multiversed)  [![Dependency Status](https://gemnasium.com/Meettya/multiversed.png)](https://gemnasium.com/Meettya/multiversed)
+[![Build Status](https://secure.travis-ci.org/Meettya/multiversed.png)](http://travis-ci.org/Meettya/multiversed)  [![Dependency Status](https://gemnasium.com/Meettya/multiversed.svg)](https://gemnasium.com/Meettya/multiversed)
 
 # Multiversed
 
