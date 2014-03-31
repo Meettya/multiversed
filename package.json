@@ -1,6 +1,6 @@
 {
   "name": "multiversed",
-  "version": "0.1.1",
+  "version": "0.1.3",
   "description": "Multi-versioning API builder",
   "main": "./lib/component_factory",
   "scripts": {
