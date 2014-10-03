@@ -1,6 +1,6 @@
 {
   "name": "multiversed",
-  "version": "0.1.3",
+  "version": "0.1.5",
   "description": "Multi-versioning API builder",
   "main": "./lib/component_factory",
   "scripts": {
@@ -36,6 +36,6 @@
     "fs-extra": "*"
   },
   "engines": {
-    "node": ">=0.8.0"
+    "node": ">=0.10.0"
   }
 }
