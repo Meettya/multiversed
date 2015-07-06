@@ -1,6 +1,6 @@
 {
   "name": "multiversed",
-  "version": "0.1.5",
+  "version": "0.1.7",
   "description": "Multi-versioning API builder",
   "main": "./lib/component_factory",
   "scripts": {
@@ -15,17 +15,12 @@
     "mvc"
   ],
   "author": "Dmitrii Karpich <meettya@gmail.com>",
-  "licenses": [
-    {
-      "type": "MIT",
-      "url": "https://raw.github.com/Meettya/multiversed/master/LICENSE"
-    }
-  ],
+  "license": "MIT",
   "readmeFilename": "README.md",
   "dependencies": {
-    "lodash": "*",
-    "async": "*",
-    "semver": "*"
+    "async": "1.x",
+    "lodash": "3.x",
+    "semver": "4.x"
   },
   "devDependencies": {
     "coffee-script": "*",
