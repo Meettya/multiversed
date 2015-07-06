@@ -2,3 +2,9 @@ plato_report
 examples
 *.sock
 .DS_Store
+cake_dep
+test
+src
+Cakefile
+History.md
+TODO.md
