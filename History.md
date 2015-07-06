@@ -1,3 +1,10 @@
+## 0.1.7 / 2015-07-06 6:30 PM
+
+  - Update modules
+  - Change shrinkwrap to versioning
+  - Recompile with CS 1.9.3
+  - Add 0.12 to travis
+
 ## 0.1.5 / 2014-10-03 4:30 PM
 
   - Update modules
